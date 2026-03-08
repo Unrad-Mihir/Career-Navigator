@@ -60,5 +60,3 @@ Known limitations:
  Scoring does not distinguish required vs preferred skills
  AI results depend on input quality
  Interview practice feature has limited context memory
-
-If you want, I can also give you a super clean version recruiters tend to like more (about 25–30% shorter) — sometimes these design docs are skimmed in under 30 seconds.
